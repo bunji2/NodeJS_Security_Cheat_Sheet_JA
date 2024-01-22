@@ -767,8 +767,3 @@ function func() {
 ## Node.js のセキュリティに関するその他のリソース
 
 [Awesome Node.js Security resources](https://github.com/lirantal/awesome-nodejs-security)
-
-```
-Additional resources about Node.js security
-Awesome Node.js Security resources
-```
